@@ -22,4 +22,3 @@ _G.Key = lol
 
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/nadic/Fish-Hub/main/fishh2'))()
 
-https://raw.githubusercontent.com/nadic/Fish-Hub/main/nologsorry.lua
