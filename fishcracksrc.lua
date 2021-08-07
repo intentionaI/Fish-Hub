@@ -1,3 +1,5 @@
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/nadic/Fish-Hub/main/nologsorry.lua'))()
+wait(1)
 local keytab = {
 'Key3857235897585823752' ,
 'Key384723894273457235' ,
@@ -19,3 +21,5 @@ print('Current key used is ' .. lol .. '!')
 _G.Key = lol
 
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/nadic/Fish-Hub/main/fishh2'))()
+
+https://raw.githubusercontent.com/nadic/Fish-Hub/main/nologsorry.lua
